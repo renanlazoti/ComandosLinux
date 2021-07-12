@@ -1,3 +1,0 @@
-listar arquivos: ls
-listar arquivos ocultos: ls -a
-ler um arquivo: cat nomedoarquivo
