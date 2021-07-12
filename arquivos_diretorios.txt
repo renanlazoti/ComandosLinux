@@ -13,3 +13,7 @@ Comando para a navegação entre diretórios:
     Ex.: exibir os arquivos e pastar, inclusive os ocultos 
         ls -la    
 
+    mkdir
+    o comando cria diretórios. Por isso seu nome é mkdir(makediretory)
+    Ex.: mkdir dados (nome da pasta)
+    
