@@ -1,0 +1,14 @@
+Comando para a navegação entre diretórios:
+    cd
+    para abrir um diretório usamos o comando: cd e o nome do diretório
+    Ex.:cd home -> abrindo a pasta home
+
+    pwd
+    o comando pwd irá nos mostrar onde estamos, ou seja, em qual diretório
+    você está 
+
+    ls
+    o comando ls(listar) permite exibir uma lista de arquivos em um
+    diretório. Ele possui algumas flags(opções de comando)
+        ls -la    
+
