@@ -13,13 +13,13 @@ Comando para a navegação entre diretórios:
     Ex.: exibir os arquivos e pastar, inclusive os ocultos 
         ls -la    
 
-<<<<<<< HEAD
+
     mkdir
     o comando cria diretórios. Por isso seu nome é mkdir(makediretory)
     Ex.: mkdir dados (nome da pasta)
     
-=======
+
     cp
     o comando cp(copu) é responsavel por realizar uma cópia de arquivos
     ou diretórios
->>>>>>> 0e1a5a74f8ce19d06c4ce5b60bfee64c8dfc56a5
+
